@@ -1,2 +1,3 @@
 # hello-world
-1er. repo en github
+1) 1er. repo en github
+2) creada la ramal
